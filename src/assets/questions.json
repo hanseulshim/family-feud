@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Favorite drink",
+    "answers": [
+      {
+        "answer": "Coffee",
+        "value": 17
+      },
+      {
+        "answer": "Pizza",
+        "value": 11
+      },
+      {
+        "answer": "Tea",
+        "value": 6
+      },
+      {
+        "answer": "Cocoa",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "Favorite sport to watch on T.V.",
+    "answers": [
+      {
+        "answer": "Football",
+        "value": 25
+      },
+      {
+        "answer": "Basketball",
+        "value": 25
+      },
+      {
+        "answer": "Soccer",
+        "value": 23
+      },
+      {
+        "answer": "Baseball",
+        "value": 18
+      },
+      {
+        "answer": "Hockey",
+        "value": 9
+      }
+    ]
+  }
+]
